@@ -1,0 +1,2288 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 3372px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Service_icon-01 {
+	position: absolute;
+	width: 187px;
+	height: 187px;
+	left: 867px;
+	top: 769px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Artboard___1.html;
+}
+#Service_icon-01_p {
+	position: absolute;
+	width: 187px;
+	height: 187px;
+	left: 1323px;
+	top: 769px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Artboard___3.html;
+}
+#Service_icon-01_q {
+	position: absolute;
+	width: 187px;
+	height: 187px;
+	left: 1095px;
+	top: 769px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Artboard___2.html;
+}
+#Intersection_16 {
+	position: absolute;
+	width: 1510px;
+	height: 279.999px;
+	left: 410px;
+	top: 1957px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Artboard___4.html;
+}
+#welcome_to_then_again {
+	left: 410px;
+	top: 574px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	height: 24px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Our_dynamic_team {
+	left: 410px;
+	top: 1052px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	height: 24px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Brands_we_work_with {
+	left: 410px;
+	top: 1861px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	height: 24px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Paul_speirs {
+	left: 479px;
+	top: 1382px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Lauren_Holliday {
+	left: 745px;
+	top: 1723px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Amy_knight {
+	left: 763px;
+	top: 1382px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Kevin_buya {
+	left: 1050px;
+	top: 1723px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Riaan_myburgh {
+	left: 1031px;
+	top: 1382px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Ali_cox {
+	left: 1356px;
+	top: 1382px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Mika {
+	left: 1364px;
+	top: 1723px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Creative_DirectorNarrative_Edi {
+	left: 430px;
+	top: 1408px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Illustratordesigner {
+	left: 759px;
+	top: 1749px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Post_producer {
+	left: 774px;
+	top: 1408px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Office_manager {
+	left: 1055px;
+	top: 1749px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Creative_DirectorVFXMotion_Gra {
+	left: 987px;
+	top: 1408px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Accounts {
+	left: 1359px;
+	top: 1408px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Branch_manager {
+	left: 1335px;
+	top: 1749px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#a_boutique_studio_that_has_bee {
+	left: 869px;
+	top: 574px;
+	position: absolute;
+	overflow: visible;
+	width: 642px;
+	height: 147px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Portraits-09 {
+	position: absolute;
+	width: 245px;
+	height: 245px;
+	left: 410px;
+	top: 1116px;
+	overflow: visible;
+}
+#Portraits-07 {
+	position: absolute;
+	width: 245px;
+	height: 245px;
+	left: 695px;
+	top: 1457px;
+	overflow: visible;
+}
+#Portraits-05 {
+	position: absolute;
+	width: 245px;
+	height: 245px;
+	left: 695px;
+	top: 1116px;
+	overflow: visible;
+}
+#Portraits-02 {
+	position: absolute;
+	width: 245px;
+	height: 245px;
+	left: 980px;
+	top: 1457px;
+	overflow: visible;
+}
+#Portraits-01 {
+	position: absolute;
+	width: 245px;
+	height: 245px;
+	left: 980px;
+	top: 1116px;
+	overflow: visible;
+}
+#Portraits-06 {
+	position: absolute;
+	width: 245px;
+	height: 245px;
+	left: 1265px;
+	top: 1116px;
+	overflow: visible;
+}
+#Portraits-08 {
+	position: absolute;
+	width: 245px;
+	height: 245px;
+	left: 1265px;
+	top: 1457px;
+	overflow: visible;
+}
+#histudiothencom {
+	left: 410px;
+	top: 2421.999px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#n__Caleb_street__Woodstock_Cap {
+	left: 410px;
+	top: 2486.999px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Have_a_project_in_mind {
+	left: 410px;
+	top: 2332.999px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Screenshot_2022-06-27_at_12291 {
+	position: absolute;
+	width: 1100px;
+	height: 624px;
+	left: 410px;
+	top: 2600.999px;
+	overflow: visible;
+}
+#Declan_manca {
+	left: 464px;
+	top: 1723px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#VFX3D_ArtistMotion_Graphics {
+	left: 443px;
+	top: 1749px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#Portraits-04 {
+	position: absolute;
+	width: 245px;
+	height: 245px;
+	left: 410px;
+	top: 1457px;
+	overflow: visible;
+}
+#Group_12 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 86.869px;
+	height: 97.09px;
+	left: 919.065px;
+	top: 814px;
+	overflow: visible;
+}
+#Path_132 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_132 {
+	overflow: visible;
+	position: absolute;
+	width: 46.737px;
+	height: 46.737px;
+	left: 36.128px;
+	top: 46.348px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_134 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_134 {
+	overflow: visible;
+	position: absolute;
+	width: 23.303px;
+	height: 23.303px;
+	left: 66.124px;
+	top: 76.345px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 21.933px;
+	height: 21.933px;
+	left: 36.531px;
+	top: 46.751px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_139 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_139 {
+	overflow: visible;
+	position: absolute;
+	width: 38.128px;
+	height: 38.128px;
+	left: 0px;
+	top: 5.034px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_140 {
+	fill: rgba(17,22,124,1);
+	stroke: rgba(17,22,124,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_140 {
+	overflow: visible;
+	position: absolute;
+	width: 12.068px;
+	height: 12.068px;
+	left: 31.094px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_136 {
+	fill: rgba(132,121,225,1);
+	stroke: rgba(132,121,225,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_136 {
+	overflow: visible;
+	position: absolute;
+	width: 12.068px;
+	height: 12.068px;
+	left: 54.161px;
+	top: 64.382px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_11 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 91.98px;
+	height: 97.09px;
+	left: 1142.51px;
+	top: 814px;
+	overflow: visible;
+}
+#Path_141 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_141 {
+	overflow: visible;
+	position: absolute;
+	width: 24.583px;
+	height: 24.583px;
+	left: 69.397px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 42.716px;
+	left: 80.688px;
+	top: 29.68px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_44 {
+	fill: rgba(132,121,225,1);
+	stroke: rgba(132,121,225,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_44 {
+	width: 14.684px;
+	height: 14.684px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-1144.931px, -1008.455px) matrix(1,0,0,1,1218.2775,1087.8196) rotate(-45deg);
+	transform-origin: center;
+}
+#Rectangle_45 {
+	fill: rgba(17,22,124,1);
+	stroke: rgba(17,22,124,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_45 {
+	width: 14.684px;
+	height: 14.684px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-1144.931px, -1008.455px) matrix(1,0,0,1,1147.9725,1087.8196) rotate(-45deg);
+	transform-origin: center;
+}
+#Rectangle_47 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 72.305px;
+	height: 16.684px;
+	left: 10.383px;
+	top: 42.669px;
+}
+#Group_13 {
+	position: absolute;
+	width: 114.92px;
+	height: 96.244px;
+	left: 1359.04px;
+	top: 804px;
+	overflow: visible;
+}
+#Rectangle_48 {
+	fill: rgba(132,121,225,1);
+	stroke: rgba(132,121,225,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 11.147px;
+	height: 11.147px;
+	left: 18.83px;
+	top: 78.648px;
+}
+#Rectangle_49 {
+	fill: rgba(132,121,225,1);
+	stroke: rgba(132,121,225,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 11.147px;
+	height: 11.147px;
+	left: 52.89px;
+	top: 60.52px;
+}
+#Rectangle_50 {
+	fill: rgba(132,121,225,1);
+	stroke: rgba(132,121,225,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 11.147px;
+	height: 11.147px;
+	left: 52.89px;
+	top: 17.46px;
+}
+#Rectangle_51 {
+	fill: rgba(132,121,225,1);
+	stroke: rgba(132,121,225,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 11.147px;
+	height: 11.147px;
+	left: 86.943px;
+	top: 78.648px;
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 59.695px;
+	left: 57.46px;
+	top: 7.398px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_142 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_142 {
+	overflow: visible;
+	position: absolute;
+	width: 11.155px;
+	height: 9.398px;
+	left: 52.883px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_9 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	width: 53.635px;
+	height: 29.815px;
+	left: 57.46px;
+	top: 65.094px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_143 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_143 {
+	overflow: visible;
+	position: absolute;
+	width: 10.681px;
+	height: 10.081px;
+	left: 106.239px;
+	top: 88.163px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_10 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10 {
+	overflow: visible;
+	position: absolute;
+	width: 53.635px;
+	height: 29.815px;
+	left: 6.531px;
+	top: 65.094px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_144 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_144 {
+	overflow: visible;
+	position: absolute;
+	width: 10.681px;
+	height: 10.081px;
+	left: 0px;
+	top: 88.163px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_145 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_145 {
+	overflow: visible;
+	position: absolute;
+	width: 36.337px;
+	height: 63.47px;
+	left: 23.403px;
+	top: 22.033px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_146 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_146 {
+	overflow: visible;
+	position: absolute;
+	width: 36.337px;
+	height: 63.47px;
+	left: 57.46px;
+	top: 22.033px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_147 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_147 {
+	overflow: visible;
+	position: absolute;
+	width: 70.662px;
+	height: 7.558px;
+	left: 23.403px;
+	top: 83.222px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_148 {
+	fill: rgba(17,22,124,1);
+	stroke: rgba(17,22,124,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_148 {
+	overflow: visible;
+	position: absolute;
+	width: 12.068px;
+	height: 12.068px;
+	left: 25.426px;
+	top: 43.088px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_149 {
+	fill: rgba(17,22,124,1);
+	stroke: rgba(17,22,124,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_149 {
+	overflow: visible;
+	position: absolute;
+	width: 12.068px;
+	height: 12.068px;
+	left: 78.426px;
+	top: 43.088px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_150 {
+	fill: rgba(17,22,124,1);
+	stroke: rgba(17,22,124,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_150 {
+	overflow: visible;
+	position: absolute;
+	width: 12.068px;
+	height: 12.068px;
+	left: 52.426px;
+	top: 83.419px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_18 {
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 410px;
+	top: 618px;
+	overflow: visible;
+}
+#Path_162 {
+	fill: rgba(132,121,225,1);
+}
+.Path_162 {
+	overflow: visible;
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_163 {
+	fill: rgba(132,121,225,1);
+}
+.Path_163 {
+	overflow: visible;
+	position: absolute;
+	width: 1.094px;
+	height: 0.327px;
+	left: 59.899px;
+	top: 3.942px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_164 {
+	fill: rgba(132,121,225,1);
+}
+.Path_164 {
+	overflow: visible;
+	position: absolute;
+	width: 1.04px;
+	height: 0.487px;
+	left: 34.778px;
+	top: 0.13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_165 {
+	fill: rgba(132,121,225,1);
+}
+.Path_165 {
+	overflow: visible;
+	position: absolute;
+	width: 0.46px;
+	height: 0.467px;
+	left: 88.772px;
+	top: 0.132px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_166 {
+	fill: rgba(132,121,225,1);
+}
+.Path_166 {
+	overflow: visible;
+	position: absolute;
+	width: 0.719px;
+	height: 0.258px;
+	left: 73.271px;
+	top: 0.156px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_167 {
+	fill: rgba(132,121,225,1);
+}
+.Path_167 {
+	overflow: visible;
+	position: absolute;
+	width: 0.58px;
+	height: 0.257px;
+	left: 92.773px;
+	top: 0.195px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_168 {
+	fill: rgba(132,121,225,1);
+}
+.Path_168 {
+	overflow: visible;
+	position: absolute;
+	width: 0.751px;
+	height: 0.472px;
+	left: 28.468px;
+	top: 3.839px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_169 {
+	fill: rgba(132,121,225,1);
+}
+.Path_169 {
+	overflow: visible;
+	position: absolute;
+	width: 0.563px;
+	height: 0.277px;
+	left: 50.748px;
+	top: 0.102px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_170 {
+	fill: rgba(132,121,225,1);
+}
+.Path_170 {
+	overflow: visible;
+	position: absolute;
+	width: 0.591px;
+	height: 0.386px;
+	left: 90.876px;
+	top: 0.171px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_171 {
+	fill: rgba(132,121,225,1);
+}
+.Path_171 {
+	overflow: visible;
+	position: absolute;
+	width: 0.537px;
+	height: 0.209px;
+	left: 78.496px;
+	top: 4.023px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_172 {
+	fill: rgba(132,121,225,1);
+}
+.Path_172 {
+	overflow: visible;
+	position: absolute;
+	width: 0.612px;
+	height: 0.351px;
+	left: 1.257px;
+	top: 0.534px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_173 {
+	fill: rgba(132,121,225,1);
+}
+.Path_173 {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.227px;
+	left: 4.52px;
+	top: 4.017px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_174 {
+	fill: rgba(132,121,225,1);
+}
+.Path_174 {
+	overflow: visible;
+	position: absolute;
+	width: 0.492px;
+	height: 0.397px;
+	left: 52.223px;
+	top: 0.135px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_175 {
+	fill: rgba(132,121,225,1);
+}
+.Path_175 {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.478px;
+	left: 94.837px;
+	top: 0.219px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_176 {
+	fill: rgba(132,121,225,1);
+}
+.Path_176 {
+	overflow: visible;
+	position: absolute;
+	width: 0.528px;
+	height: 0.43px;
+	left: 22.023px;
+	top: 3.877px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_177 {
+	fill: rgba(132,121,225,1);
+}
+.Path_177 {
+	overflow: visible;
+	position: absolute;
+	width: 0.451px;
+	height: 0.202px;
+	left: 77.727px;
+	top: 0.136px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_178 {
+	fill: rgba(132,121,225,1);
+}
+.Path_178 {
+	overflow: visible;
+	position: absolute;
+	width: 0.444px;
+	height: 0.331px;
+	left: 47.541px;
+	top: 3.987px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_19 {
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 410px;
+	top: 1096px;
+	overflow: visible;
+}
+#Path_162_c {
+	fill: rgba(132,121,225,1);
+}
+.Path_162_c {
+	overflow: visible;
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_163_c {
+	fill: rgba(132,121,225,1);
+}
+.Path_163_c {
+	overflow: visible;
+	position: absolute;
+	width: 1.094px;
+	height: 0.327px;
+	left: 59.899px;
+	top: 3.942px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_164_c {
+	fill: rgba(132,121,225,1);
+}
+.Path_164_c {
+	overflow: visible;
+	position: absolute;
+	width: 1.04px;
+	height: 0.487px;
+	left: 34.778px;
+	top: 0.13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_165_c {
+	fill: rgba(132,121,225,1);
+}
+.Path_165_c {
+	overflow: visible;
+	position: absolute;
+	width: 0.46px;
+	height: 0.467px;
+	left: 88.772px;
+	top: 0.132px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_166_c {
+	fill: rgba(132,121,225,1);
+}
+.Path_166_c {
+	overflow: visible;
+	position: absolute;
+	width: 0.719px;
+	height: 0.258px;
+	left: 73.271px;
+	top: 0.156px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_167_c {
+	fill: rgba(132,121,225,1);
+}
+.Path_167_c {
+	overflow: visible;
+	position: absolute;
+	width: 0.58px;
+	height: 0.257px;
+	left: 92.773px;
+	top: 0.195px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_168_c {
+	fill: rgba(132,121,225,1);
+}
+.Path_168_c {
+	overflow: visible;
+	position: absolute;
+	width: 0.751px;
+	height: 0.472px;
+	left: 28.468px;
+	top: 3.839px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_169_c {
+	fill: rgba(132,121,225,1);
+}
+.Path_169_c {
+	overflow: visible;
+	position: absolute;
+	width: 0.563px;
+	height: 0.277px;
+	left: 50.748px;
+	top: 0.102px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_170_c {
+	fill: rgba(132,121,225,1);
+}
+.Path_170_c {
+	overflow: visible;
+	position: absolute;
+	width: 0.591px;
+	height: 0.386px;
+	left: 90.876px;
+	top: 0.171px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_171_da {
+	fill: rgba(132,121,225,1);
+}
+.Path_171_da {
+	overflow: visible;
+	position: absolute;
+	width: 0.537px;
+	height: 0.209px;
+	left: 78.496px;
+	top: 4.023px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_172_db {
+	fill: rgba(132,121,225,1);
+}
+.Path_172_db {
+	overflow: visible;
+	position: absolute;
+	width: 0.612px;
+	height: 0.351px;
+	left: 1.257px;
+	top: 0.534px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_173_dc {
+	fill: rgba(132,121,225,1);
+}
+.Path_173_dc {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.227px;
+	left: 4.52px;
+	top: 4.017px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_174_dd {
+	fill: rgba(132,121,225,1);
+}
+.Path_174_dd {
+	overflow: visible;
+	position: absolute;
+	width: 0.492px;
+	height: 0.396px;
+	left: 52.223px;
+	top: 0.135px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_175_de {
+	fill: rgba(132,121,225,1);
+}
+.Path_175_de {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.478px;
+	left: 94.837px;
+	top: 0.219px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_176_df {
+	fill: rgba(132,121,225,1);
+}
+.Path_176_df {
+	overflow: visible;
+	position: absolute;
+	width: 0.528px;
+	height: 0.43px;
+	left: 22.023px;
+	top: 3.877px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_177_dg {
+	fill: rgba(132,121,225,1);
+}
+.Path_177_dg {
+	overflow: visible;
+	position: absolute;
+	width: 0.451px;
+	height: 0.202px;
+	left: 77.727px;
+	top: 0.136px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_178_dh {
+	fill: rgba(132,121,225,1);
+}
+.Path_178_dh {
+	overflow: visible;
+	position: absolute;
+	width: 0.444px;
+	height: 0.331px;
+	left: 47.541px;
+	top: 3.987px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_20 {
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 410px;
+	top: 1905px;
+	overflow: visible;
+}
+#Path_162_dj {
+	fill: rgba(132,121,225,1);
+}
+.Path_162_dj {
+	overflow: visible;
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_163_dk {
+	fill: rgba(132,121,225,1);
+}
+.Path_163_dk {
+	overflow: visible;
+	position: absolute;
+	width: 1.094px;
+	height: 0.327px;
+	left: 59.899px;
+	top: 3.942px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_164_dl {
+	fill: rgba(132,121,225,1);
+}
+.Path_164_dl {
+	overflow: visible;
+	position: absolute;
+	width: 1.04px;
+	height: 0.487px;
+	left: 34.778px;
+	top: 0.13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_165_dm {
+	fill: rgba(132,121,225,1);
+}
+.Path_165_dm {
+	overflow: visible;
+	position: absolute;
+	width: 0.46px;
+	height: 0.467px;
+	left: 88.772px;
+	top: 0.132px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_166_dn {
+	fill: rgba(132,121,225,1);
+}
+.Path_166_dn {
+	overflow: visible;
+	position: absolute;
+	width: 0.719px;
+	height: 0.258px;
+	left: 73.271px;
+	top: 0.156px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_167_do {
+	fill: rgba(132,121,225,1);
+}
+.Path_167_do {
+	overflow: visible;
+	position: absolute;
+	width: 0.58px;
+	height: 0.257px;
+	left: 92.773px;
+	top: 0.195px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_168_dp {
+	fill: rgba(132,121,225,1);
+}
+.Path_168_dp {
+	overflow: visible;
+	position: absolute;
+	width: 0.751px;
+	height: 0.472px;
+	left: 28.468px;
+	top: 3.839px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_169_dq {
+	fill: rgba(132,121,225,1);
+}
+.Path_169_dq {
+	overflow: visible;
+	position: absolute;
+	width: 0.563px;
+	height: 0.276px;
+	left: 50.748px;
+	top: 0.102px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_170_dr {
+	fill: rgba(132,121,225,1);
+}
+.Path_170_dr {
+	overflow: visible;
+	position: absolute;
+	width: 0.591px;
+	height: 0.386px;
+	left: 90.876px;
+	top: 0.171px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_171_ds {
+	fill: rgba(132,121,225,1);
+}
+.Path_171_ds {
+	overflow: visible;
+	position: absolute;
+	width: 0.537px;
+	height: 0.208px;
+	left: 78.496px;
+	top: 4.023px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_172_dt {
+	fill: rgba(132,121,225,1);
+}
+.Path_172_dt {
+	overflow: visible;
+	position: absolute;
+	width: 0.612px;
+	height: 0.351px;
+	left: 1.257px;
+	top: 0.534px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_173_du {
+	fill: rgba(132,121,225,1);
+}
+.Path_173_du {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.227px;
+	left: 4.52px;
+	top: 4.017px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_174_dv {
+	fill: rgba(132,121,225,1);
+}
+.Path_174_dv {
+	overflow: visible;
+	position: absolute;
+	width: 0.492px;
+	height: 0.396px;
+	left: 52.223px;
+	top: 0.135px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_175_dw {
+	fill: rgba(132,121,225,1);
+}
+.Path_175_dw {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.478px;
+	left: 94.837px;
+	top: 0.219px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_176_dx {
+	fill: rgba(132,121,225,1);
+}
+.Path_176_dx {
+	overflow: visible;
+	position: absolute;
+	width: 0.528px;
+	height: 0.43px;
+	left: 22.023px;
+	top: 3.877px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_177_dy {
+	fill: rgba(132,121,225,1);
+}
+.Path_177_dy {
+	overflow: visible;
+	position: absolute;
+	width: 0.451px;
+	height: 0.202px;
+	left: 77.727px;
+	top: 0.136px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_178_dz {
+	fill: rgba(132,121,225,1);
+}
+.Path_178_dz {
+	overflow: visible;
+	position: absolute;
+	width: 0.444px;
+	height: 0.331px;
+	left: 47.541px;
+	top: 3.987px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_21 {
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 410px;
+	top: 2376.999px;
+	overflow: visible;
+}
+#Path_162_d {
+	fill: rgba(132,121,225,1);
+}
+.Path_162_d {
+	overflow: visible;
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_163_d {
+	fill: rgba(132,121,225,1);
+}
+.Path_163_d {
+	overflow: visible;
+	position: absolute;
+	width: 1.094px;
+	height: 0.327px;
+	left: 59.899px;
+	top: 3.942px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_164_d {
+	fill: rgba(132,121,225,1);
+}
+.Path_164_d {
+	overflow: visible;
+	position: absolute;
+	width: 1.04px;
+	height: 0.487px;
+	left: 34.778px;
+	top: 0.13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_165_d {
+	fill: rgba(132,121,225,1);
+}
+.Path_165_d {
+	overflow: visible;
+	position: absolute;
+	width: 0.46px;
+	height: 0.467px;
+	left: 88.772px;
+	top: 0.132px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_166_d {
+	fill: rgba(132,121,225,1);
+}
+.Path_166_d {
+	overflow: visible;
+	position: absolute;
+	width: 0.719px;
+	height: 0.258px;
+	left: 73.271px;
+	top: 0.156px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_167_d {
+	fill: rgba(132,121,225,1);
+}
+.Path_167_d {
+	overflow: visible;
+	position: absolute;
+	width: 0.58px;
+	height: 0.257px;
+	left: 92.773px;
+	top: 0.195px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_168_d {
+	fill: rgba(132,121,225,1);
+}
+.Path_168_d {
+	overflow: visible;
+	position: absolute;
+	width: 0.751px;
+	height: 0.472px;
+	left: 28.468px;
+	top: 3.839px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_169_d {
+	fill: rgba(132,121,225,1);
+}
+.Path_169_d {
+	overflow: visible;
+	position: absolute;
+	width: 0.563px;
+	height: 0.277px;
+	left: 50.748px;
+	top: 0.102px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_170_d {
+	fill: rgba(132,121,225,1);
+}
+.Path_170_d {
+	overflow: visible;
+	position: absolute;
+	width: 0.591px;
+	height: 0.386px;
+	left: 90.876px;
+	top: 0.171px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_171_ea {
+	fill: rgba(132,121,225,1);
+}
+.Path_171_ea {
+	overflow: visible;
+	position: absolute;
+	width: 0.537px;
+	height: 0.208px;
+	left: 78.496px;
+	top: 4.022px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_172_eb {
+	fill: rgba(132,121,225,1);
+}
+.Path_172_eb {
+	overflow: visible;
+	position: absolute;
+	width: 0.612px;
+	height: 0.351px;
+	left: 1.257px;
+	top: 0.534px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_173_ec {
+	fill: rgba(132,121,225,1);
+}
+.Path_173_ec {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.227px;
+	left: 4.52px;
+	top: 4.017px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_174_ed {
+	fill: rgba(132,121,225,1);
+}
+.Path_174_ed {
+	overflow: visible;
+	position: absolute;
+	width: 0.492px;
+	height: 0.397px;
+	left: 52.223px;
+	top: 0.135px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_175_ee {
+	fill: rgba(132,121,225,1);
+}
+.Path_175_ee {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.478px;
+	left: 94.837px;
+	top: 0.219px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_176_ef {
+	fill: rgba(132,121,225,1);
+}
+.Path_176_ef {
+	overflow: visible;
+	position: absolute;
+	width: 0.528px;
+	height: 0.43px;
+	left: 22.023px;
+	top: 3.877px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_177_eg {
+	fill: rgba(132,121,225,1);
+}
+.Path_177_eg {
+	overflow: visible;
+	position: absolute;
+	width: 0.451px;
+	height: 0.202px;
+	left: 77.727px;
+	top: 0.136px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_178_eh {
+	fill: rgba(132,121,225,1);
+}
+.Path_178_eh {
+	overflow: visible;
+	position: absolute;
+	width: 0.444px;
+	height: 0.331px;
+	left: 47.541px;
+	top: 3.987px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_22 {
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 911.665px;
+	top: 3272.999px;
+	overflow: visible;
+}
+#Path_162_ej {
+	fill: rgba(132,121,225,1);
+}
+.Path_162_ej {
+	overflow: visible;
+	position: absolute;
+	width: 96.67px;
+	height: 4.366px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_163_ek {
+	fill: rgba(132,121,225,1);
+}
+.Path_163_ek {
+	overflow: visible;
+	position: absolute;
+	width: 1.094px;
+	height: 0.327px;
+	left: 59.899px;
+	top: 3.942px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_164_el {
+	fill: rgba(132,121,225,1);
+}
+.Path_164_el {
+	overflow: visible;
+	position: absolute;
+	width: 1.04px;
+	height: 0.487px;
+	left: 34.778px;
+	top: 0.13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_165_em {
+	fill: rgba(132,121,225,1);
+}
+.Path_165_em {
+	overflow: visible;
+	position: absolute;
+	width: 0.46px;
+	height: 0.467px;
+	left: 88.772px;
+	top: 0.132px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_166_en {
+	fill: rgba(132,121,225,1);
+}
+.Path_166_en {
+	overflow: visible;
+	position: absolute;
+	width: 0.719px;
+	height: 0.258px;
+	left: 73.271px;
+	top: 0.156px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_167_eo {
+	fill: rgba(132,121,225,1);
+}
+.Path_167_eo {
+	overflow: visible;
+	position: absolute;
+	width: 0.58px;
+	height: 0.257px;
+	left: 92.773px;
+	top: 0.195px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_168_ep {
+	fill: rgba(132,121,225,1);
+}
+.Path_168_ep {
+	overflow: visible;
+	position: absolute;
+	width: 0.751px;
+	height: 0.472px;
+	left: 28.468px;
+	top: 3.839px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_169_eq {
+	fill: rgba(132,121,225,1);
+}
+.Path_169_eq {
+	overflow: visible;
+	position: absolute;
+	width: 0.563px;
+	height: 0.277px;
+	left: 50.748px;
+	top: 0.102px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_170_er {
+	fill: rgba(132,121,225,1);
+}
+.Path_170_er {
+	overflow: visible;
+	position: absolute;
+	width: 0.591px;
+	height: 0.386px;
+	left: 90.876px;
+	top: 0.171px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_171_es {
+	fill: rgba(132,121,225,1);
+}
+.Path_171_es {
+	overflow: visible;
+	position: absolute;
+	width: 0.537px;
+	height: 0.208px;
+	left: 78.496px;
+	top: 4.022px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_172_et {
+	fill: rgba(132,121,225,1);
+}
+.Path_172_et {
+	overflow: visible;
+	position: absolute;
+	width: 0.612px;
+	height: 0.351px;
+	left: 1.257px;
+	top: 0.534px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_173_eu {
+	fill: rgba(132,121,225,1);
+}
+.Path_173_eu {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.227px;
+	left: 4.52px;
+	top: 4.017px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_174_ev {
+	fill: rgba(132,121,225,1);
+}
+.Path_174_ev {
+	overflow: visible;
+	position: absolute;
+	width: 0.492px;
+	height: 0.397px;
+	left: 52.223px;
+	top: 0.135px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_175_ew {
+	fill: rgba(132,121,225,1);
+}
+.Path_175_ew {
+	overflow: visible;
+	position: absolute;
+	width: 0.456px;
+	height: 0.478px;
+	left: 94.837px;
+	top: 0.219px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_176_ex {
+	fill: rgba(132,121,225,1);
+}
+.Path_176_ex {
+	overflow: visible;
+	position: absolute;
+	width: 0.528px;
+	height: 0.43px;
+	left: 22.023px;
+	top: 3.877px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_177_ey {
+	fill: rgba(132,121,225,1);
+}
+.Path_177_ey {
+	overflow: visible;
+	position: absolute;
+	width: 0.451px;
+	height: 0.202px;
+	left: 77.727px;
+	top: 0.136px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_178_ez {
+	fill: rgba(132,121,225,1);
+}
+.Path_178_ez {
+	overflow: visible;
+	position: absolute;
+	width: 0.444px;
+	height: 0.331px;
+	left: 47.541px;
+	top: 3.987px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Union_42 {
+	position: absolute;
+	width: 1510px;
+	height: 476px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Union_41 {
+	position: absolute;
+	width: 1200.75px;
+	height: 476px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Union_40 {
+	position: absolute;
+	width: 892px;
+	height: 476px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Image {
+	position: absolute;
+	width: 586px;
+	height: 476px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Overlay {
+	position: absolute;
+	width: 586px;
+	height: 476px;
+	left: 924px;
+	top: 0px;
+	overflow: visible;
+}
+#Overlay_e {
+	fill: rgba(17,22,124,1);
+}
+.Overlay_e {
+	mix-blend-mode: color;
+	overflow: visible;
+	position: absolute;
+	width: 586px;
+	height: 476px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+	cursor: pointer;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___5.html;
+}
+#Overlay_fa {
+	position: absolute;
+	width: 586px;
+	height: 476px;
+	left: 615px;
+	top: 0px;
+	overflow: visible;
+}
+#Overlay_fb {
+	fill: rgba(17,22,124,1);
+}
+.Overlay_fb {
+	mix-blend-mode: color;
+	overflow: visible;
+	position: absolute;
+	width: 586px;
+	height: 476px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+	cursor: pointer;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___4.html;
+}
+#Overlay_fc {
+	position: absolute;
+	width: 586px;
+	height: 476px;
+	left: 306px;
+	top: 0px;
+	overflow: visible;
+}
+#Overlay_fd {
+	fill: rgba(17,22,124,1);
+}
+.Overlay_fd {
+	mix-blend-mode: color;
+	overflow: visible;
+	position: absolute;
+	width: 586px;
+	height: 476px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+	cursor: pointer;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+}
+#Overlay_fe {
+	position: absolute;
+	width: 586px;
+	height: 476px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+}
+#Overlay_ff {
+	fill: rgba(17,22,124,1);
+}
+.Overlay_ff {
+	mix-blend-mode: color;
+	overflow: visible;
+	position: absolute;
+	width: 586px;
+	height: 476px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+	cursor: pointer;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+}
